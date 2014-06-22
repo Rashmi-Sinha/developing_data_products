@@ -1,2 +1,4 @@
-developing_data_products
-========================
+shinyapp:
+Interactive shiny application to analyze book genre popularity.
+
+
