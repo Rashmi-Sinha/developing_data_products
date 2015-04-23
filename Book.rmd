@@ -1,8 +1,16 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 ---
 title: "Books"
 output: pdf_document
 author: Rashmi_Sinha
+<<<<<<< HEAD
 ---
+=======
+---------------------
+>>>>>>> origin/master
 
 The goal of this analysis is to explore book genre popularity. Some questions I'll try to answer are: Have genre tastes changed over time? Does genre popularity have a pattern in the course of a year? Do demographics such as age or gender tend to report reading the same types of books?
 
@@ -231,3 +239,7 @@ we'll store the data frame in an Rdata file for easy loading in the shiny app
 ## Interactive Shiny App
 
 Now to make it shiny! Visit the code in the ui.R and server.R files in the github repo. 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
