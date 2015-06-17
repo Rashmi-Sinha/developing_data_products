@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 #server.R
-
 library(plyr)
 library(ggplot2)
 source("helper_functions.R")
