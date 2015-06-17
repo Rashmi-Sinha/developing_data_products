@@ -1,4 +1,3 @@
-
 $(document).on("click", "button.uncheckall", function(evt) {
     
     // evt.target is the button that was clicked
